@@ -12,6 +12,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Audio & Speech](#audio--speech)
 - [Productivity](#productivity)
 - [Writing](#writing)
+- [Finance](#finance)
 
 ## Chat & Text
 
@@ -99,4 +100,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 - [QuillBot](https://quillbot.com) - AI paraphrasing and writing enhancement tool.
   - **Tags**: `Free` `Subscription` `AI` `Paraphrasing` `Writing`
+  - **Pricing**: Free tier, Premium
+ 
+## Finance
+- [SASA](https://www.usesasa.com/) - AI-powered accounting
+  - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium

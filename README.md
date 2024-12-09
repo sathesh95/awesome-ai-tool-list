@@ -80,7 +80,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [HelloQuery](https://www.helloquery.com) - Lets your customers (or your team) chat directly with their data. 
   - **Tags**: `Free` `AI` `Development` `Database`
   - **Pricing**: Free tier, Basic, Pro, Enterprise
-  - **Contact**: [https://x.com/otter_ai](https://x.com/leenyburger)
+  - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
   
 ## Writing
 

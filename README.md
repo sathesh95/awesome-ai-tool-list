@@ -77,6 +77,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Pro
   - **Contact**: https://x.com/otter_ai
 
+- [HelloQuery](https://www.helloquery.com) - Lets your customers (or your team) chat directly with their data. 
+  - **Tags**: `Free` `AI` `Development` `Database`
+  - **Pricing**: Free tier, Basic, Pro, Enterprise
+  - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
+  
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.

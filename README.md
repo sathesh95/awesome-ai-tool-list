@@ -50,6 +50,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/db0
 
+- [AI Logo Generator](https://www.ailogogenerator.org) - Free online AI logo creator that generates professional company, business, and brand logos.
+  - **Tags**: `Free` `AI` `Logo` `Design` `Branding`
+  - **Pricing**: Free
+  - **Contact**: https://x.com/FreeAILogoMaker
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.

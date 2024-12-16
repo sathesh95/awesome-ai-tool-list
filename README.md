@@ -16,6 +16,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Chat & Text
 
+- [NeatFlow AI](https://neatflowai.com) - A convenient platform to use ChatGPT, Claude & Gemini.
+  - **Tags**: `Freemium` `Subscription` `Chatbot` `Productivity`
+  - **Pricing**: Credits system
+  - **Contact**: https://x.com/neatflowai
+
 - [Character.AI](https://character.ai) - Create and chat with AI characters and personalities.
   - **Tags**: `Free` `Subscription` `AI` `Chatbot` `Role-play`
   - **Pricing**: Free, Premium

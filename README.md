@@ -91,6 +91,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Development` `Database`
   - **Pricing**: Free tier, Basic, Pro, Enterprise
   - **Contact**: [https://x.com/leenyburger](https://x.com/leenyburger)
+
+- [Pie Chart Maker](https://piechartmaker.site) - Create Free Pie Charts Instantly
+  - **Tags**: `Free` `pie chart` `Productivity` `Business`
+  - **Pricing**: Free
   
 ## Writing
 

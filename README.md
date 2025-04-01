@@ -78,6 +78,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [BloomNote](https://www.bloomnote.me/) - Turn your YouTube videos, files, and links into interactive notebooks for learning.
+  - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
+  - **Pricing**: Free tier, Pro
+
 - [Notion](https://www.notion.so) - An all-in-one workspace for notes, tasks, and collaboration.
   - **Tags**: `Free` `Subscription` `Productivity` `Notes` `Collaboration`
   - **Pricing**: Free, Subscription

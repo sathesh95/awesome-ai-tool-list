@@ -95,6 +95,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [Pie Chart Maker](https://piechartmaker.site) - Create Free Pie Charts Instantly
   - **Tags**: `Free` `pie chart` `Productivity` `Business`
   - **Pricing**: Free
+    
+- [AiAgentsBase] (https://aiagentsbase.com/) - Your All-in-One AI Agents Directory
+  - **Tags**: `Free` `AI` `Directory`
+  - **Pricing**: Free
+  - **Contact**: [https://x.com/evantheproduct] (https://x.com/evantheproduct)
   
 ## Writing
 

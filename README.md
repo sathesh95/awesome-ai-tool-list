@@ -78,6 +78,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
+- [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
+  - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
+  - **Pricing**: Free tier, Premium
+
 - [BloomNote](https://www.bloomnote.me/) - Turn your YouTube videos, files, and links into interactive notebooks for learning.
   - **Tags**: `Free` `AI` `Learning` `Productivity` `Education`
   - **Pricing**: Free tier, Pro

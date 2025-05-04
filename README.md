@@ -61,7 +61,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Contact**: https://x.com/FreeAILogoMaker
 
 - [AltTextLab](https://www.alttextlab.com/) - AI-powered tool for automatic alt text generation for images.
-  - **Tags**: `Free` `Subscription` `AI` `alt text` `seo` `a11y`
+  - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
   - **Pricing**: Free, Credits system
   - **Contact**: https://x.com/alttextlab
 

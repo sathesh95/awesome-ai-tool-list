@@ -108,6 +108,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `Free` `AI` `Directory`
   - **Pricing**: Free
   - **Contact**: [https://x.com/evantheproduct] (https://x.com/evantheproduct)
+ 
+- [Ourdia] (https://ourdia.com/) - Reclaim 5 hours per week
+  - **Tags**: `FreeTrial` `Email`
+  - **Pricing**: Paid
+ 
+  
   
 ## Writing
 

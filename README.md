@@ -76,6 +76,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Pro
   - **Contact**: https://x.com/play_ht
 
+- [AI speaker](https://ai-speaker.net/) - Free online text to speech.
+  - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
+  - **Pricing**: Free tier, Premium
+
 ## Productivity
 
 - [BloomNote](https://www.bloomnote.me/) - Turn your YouTube videos, files, and links into interactive notebooks for learning.

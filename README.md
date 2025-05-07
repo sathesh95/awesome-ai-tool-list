@@ -60,6 +60,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free
   - **Contact**: https://x.com/FreeAILogoMaker
 
+- [AltTextLab](https://www.alttextlab.com/) - AI-powered tool for automatic alt text generation for images.
+  - **Tags**: `Free` `Subscription` `AI` `Alt text` `Seo` `a11y`
+  - **Pricing**: Free, Credits system
+  - **Contact**: https://x.com/alttextlab
+
 ## Audio & Speech
 
 - [ElevenLabs](https://elevenlabs.io) - Advanced AI voice synthesis and cloning.
